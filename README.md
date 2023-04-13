@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="code"  height="422" width="800" src = "https://user-images.githubusercontent.com/99672298/187067655-3c80149e-6290-4b27-8dcc-4a3b11d7369d.gif">
+
 
 # CO2_Emission_Forecasting
 ## Air Quality forecasting(CO2 emissions)   
@@ -64,12 +64,12 @@ Name | 💌Email Adress |
 ![image](https://user-images.githubusercontent.com/99672298/185760644-684e3c19-4800-4e00-ac06-6953694992e5.png)
 ![image](https://user-images.githubusercontent.com/99672298/185760651-0c10dc1e-082f-42b1-a5e8-7884dbe02f33.png)
 
-## Author
+
 
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     
      
      moindalvs@gmail.com
 
