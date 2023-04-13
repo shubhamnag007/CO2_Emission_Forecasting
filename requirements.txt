@@ -1,0 +1,10 @@
+matplotlib-venn
+numpy
+pandas-visual-analysis
+pickle4
+plot-metric
+ply
+statsmodels
+streamlit
+streamlit-option-menu
+openpyxl
